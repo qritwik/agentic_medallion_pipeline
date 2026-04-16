@@ -116,7 +116,7 @@ A bronze → silver → gold data pipeline for operational support tickets, acce
 ### 1. Clone and configure
 
 ```bash
-git clone <repo>
+git clone git@github.com:qritwik/agentic_medallion_pipeline.git
 cd medallion-pipeline
 
 cp .env.example .env
