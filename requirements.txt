@@ -1,0 +1,6 @@
+anthropic>=0.25.0
+psycopg2-binary>=2.9.9
+pandas>=2.2.0
+python-dotenv>=1.0.0
+tenacity>=8.2.0
+colorlog>=6.8.0
